@@ -1,0 +1,58 @@
+{
+    "¿Olvidaste tu contraseña? Ningún problema. Simplemente háganos saber su dirección de correo electrónico y le enviaremos un enlace para restablecer su contraseña que le permitirá elegir una nueva.": "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.",
+    "Enviar enlace": "Send Link",
+
+    "¡Vaya! Algo salió mal.": "Whoops! Something went wrong.",
+    "Acepto los :terms_of_service y :privacy_policy": "I agree to the :terms_of_service and :privacy_policy",
+    "Términos de servicio": "Terms of Service",
+    "Política de privacidad": "Privacy Policy",
+    "¿Ya estas registrado?": "Already registered?",
+    "Registrar": "Register",
+
+    "Configurar cuenta":"Setting account",
+    "Perfil":"Profile",
+    "Configurar cuenta - Perfil":"Setting account - Profile",
+
+    "Información general": "General information",
+    "Foto de perfil": "Profile Picture",
+    "JPG, JPEG o PNG. Tamaño máximo de 1MB": "JPG, JPEG or PNG. Maximum size 1MB",
+    "Subir nueva foto": "Upload new photo",
+    "Eliminar foto": "Delete photo",
+    "Nombre de usuario": "User name",
+    "Tu correo electrónico no está verificado.": "Your email is not verified.",
+    "Haz clic aquí para reenviar el correo de verificación.": "Click here to resend the verification email.",
+    "Se ha enviado un nuevo enlace de verificación a tu dirección de correo electrónico.": "A new verification link has been sent to your email address.",
+    "Nombres": "Names",
+    "Apellido Paterno": "Paternal Surname",
+    "Apellido Materno": "Maternal Surname",
+
+    "Información de contraseña": "Password information",
+    "Contraseña actual": "Current Password",
+    "Nueva contraseña": "New Password",
+
+    "Autenticación de dos factores": "Two-factor authentication",
+    "Termine de habilitar la autenticación de dos factores.": "Finish enabling two factor authentication.",
+    "Ha habilitado la autenticación de dos factores.": "You have enabled two factor authentication.",
+    "No ha habilitado la autenticación de dos factores.": "You have not enabled two-factor authentication.",
+    "Cuando la autenticación de dos factores está habilitada, se le solicitará un token aleatorio seguro durante la autenticación. Puede recuperar este token desde la aplicación Google Authenticator de su teléfono.": "When two-factor authentication is enabled, you will be prompted for a secure random token during authentication. You can retrieve this token from the Google Authenticator app on your phone.",
+    "Para finalizar la habilitación de la autenticación de dos factores, escanee el siguiente código QR con la aplicación de autenticación de su teléfono o ingrese la clave de configuración y proporcione el código OTP generado.": "To finish enabling two factor authentication, scan the following QR code using your phones authenticator application or enter the setup key and provide the generated OTP code.",
+    "La autenticación de dos factores ahora está habilitada. Escanee el siguiente código QR con la aplicación de autenticación de su teléfono o ingrese la clave de configuración.": "Two factor authentication is now enabled. Scan the following QR code using your phones authenticator application or enter the setup key.",
+    "Clave de Configuración": "Setup Key",
+    "Almacene estos códigos de recuperación en un administrador de contraseñas seguro. Se pueden usar para recuperar el acceso a su cuenta si se pierde su dispositivo de autenticación de dos factores.": "Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.",
+    "Código": "Code",
+    "Regenerar Códigos de Recuperación": "Regenerate Recovery Codes",
+    "Mostrar Códigos de Recuperación": "Show Recovery Codes",
+
+    "Sesiones": "Sessions",
+    "Administre y cierre la sesión de sus sesiones activas en otros navegadores y dispositivos.": "Manage and log out of your active sessions on other browsers and devices.",
+    "Si es necesario, puede cerrar sesión en todas las demás sesiones de su navegador en todos sus dispositivos. Algunas de sus sesiones recientes se enumeran a continuación; sin embargo, esta lista puede no ser exhaustiva. Si cree que su cuenta ha sido comprometida, también debe actualizar su contraseña.": "If necessary, you can log out of all other sessions of your browser on all your devices. Some of his recent sessions are listed below; however, this list may not be exhaustive. If you believe that your account has been compromised, you should also update your password.",
+    "Desconocido": "Unknown",
+    "Este dispositivo": "This device",
+    "Último activo": "Last active",
+    "Cerrar sesión en otras sesiones": "Log out of other sessions",
+    "Hecho.": "Done.",
+
+    "Buenos días": "Good morning",
+    "Buenas tardes": "Good afternoon",
+    "Buenas noches": "Good evening"
+}

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario de Scraping</title>
+    <script>
+        async function submitForm(event) {
+            event.preventDefault();
+            const linkWeb = document.getElementById('link_web').value;
+
+            const response = await fetch('http://localhost:3000/start-scraping', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ link_web: linkWeb })
+            });
+
+            const result = await response.text();
+            console.log(result);
+        }
+    </script>
+</head>
+<body>
+    <h1>Ingrese el enlace para scraping</h1>
+    <form onsubmit="submitForm(event)">
+        <label for="link_web">Enlace:</label>
+        <input type="text" id="link_web" name="link_web" value="https://www.bumeran.com.pe/" required>
+        <button type="submit">Iniciar Scraping</button>
+    </form>
+</body>
+</html>

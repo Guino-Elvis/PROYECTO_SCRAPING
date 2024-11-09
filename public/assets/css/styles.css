@@ -1,0 +1,18 @@
+@import url('perfect-scrollbar.css');
+
+.acciones {
+    position: sticky;
+    right: 0;
+    z-index: 0;
+    background-color: white;
+}
+
+thead {
+    .acciones {
+        position: sticky;
+        right: 0;
+        z-index: 0;
+        --tw-bg-opacity: 1;
+        background-color: rgb(79 70 229 / var(--tw-bg-opacity));
+    }
+}
